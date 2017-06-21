@@ -1,0 +1,126 @@
+p{
+  color:blue;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: #1a53ff;
+}
+h2{
+	text-align:center;
+}
+
+#by {
+    font size: 20px ;
+    color: #1a53ff;
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    color: #00cc00;
+    margin-top: 50px;
+}
+
+ol {
+    font-size: 15px;
+    color: #ff1a1a;
+    font-family: 'Cabin', sans-serif;
+}
+
+#earth {
+  width: 200px;
+}
+
+#speech {
+  font-size: 30px;
+  color: orange;
+}
+.myButton {
+  -moz-box-shadow: 0px 1px 0px 0px #1c1b18;
+  -webkit-box-shadow: 0px 1px 0px 0px #1c1b18;
+  box-shadow: 0px 1px 0px 0px #1c1b18;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #7a7568));
+  background:-moz-linear-gradient(top, #eae0c2 5%, #7a7568 100%);
+  background:-webkit-linear-gradient(top, #eae0c2 5%, #7a7568 100%);
+  background:-o-linear-gradient(top, #eae0c2 5%, #7a7568 100%);
+  background:-ms-linear-gradient(top, #eae0c2 5%, #7a7568 100%);
+  background:linear-gradient(to bottom, #eae0c2 5%, #7a7568 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#7a7568',GradientType=0);
+  background-color:#eae0c2;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-radius:15px;
+  border:2px solid #333029;
+  display:inline-block;
+  cursor:pointer;
+  color:#000000;
+  font-family:Arial;
+  font-size:14px;
+  font-weight:bold;
+  padding:12px 16px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7a7568), color-stop(1, #eae0c2));
+  background:-moz-linear-gradient(top, #7a7568 5%, #eae0c2 100%);
+  background:-webkit-linear-gradient(top, #7a7568 5%, #eae0c2 100%);
+  background:-o-linear-gradient(top, #7a7568 5%, #eae0c2 100%);
+  background:-ms-linear-gradient(top, #7a7568 5%, #eae0c2 100%);
+  background:linear-gradient(to bottom, #7a7568 5%, #eae0c2 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a7568', endColorstr='#eae0c2',GradientType=0);
+  background-color:#7a7568;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+#recycling_bins{
+display: none;
+}
+
+  #cans{
+height:250px;
+
+  }
+#paper{
+height:230px;
+
+}
+#plastic{
+height:245px;
+
+}
+.life{
+width:50px;
+
+
+}
+#lives{
+margin-left:90%;
+margin-top:-250px;
+width: 50px;
+height: 50px;
+}
+#thing1{
+
+	width:50px;
+
+}
+#item{
+
+margin-top:20%;
+margin-left:45%;
+}
+#smallbag{
+width:150px;
+height:240px;
+
+position: fixed;
+ background-image: url("http://demandware.edgesuite.net/sits_pod14/dw/image/v2/AARQ_PRD/on/demandware.static/-/Sites-PRODUCT-BERGHAUS/default/dwff63f211/images/original/4-20141J60-b.jpg?sh=206");
+}
+body{
